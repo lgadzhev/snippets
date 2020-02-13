@@ -1,4 +1,5 @@
-/**
+<script>
+    /**
      * Preserving all GET params through all pages
      */
     function preserveGetParams () {
@@ -74,3 +75,4 @@
             return array.length > 0;
         }
     }
+</script>
